@@ -9,6 +9,13 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 * [TestLink](https://testlink.org) - Test management tool
 * Github
 # Tech Skills
-* [
+* SCRUM
+* SQL
+* Software testing
+* Reporting bugs
+* DevTools
+* Creating test cases
+# Courses
+* [CodersLab](https://coderslab.pl/pl) - Podstawy testowania
 
 
