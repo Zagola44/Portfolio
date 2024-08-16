@@ -26,7 +26,10 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 * Testerzy.pl
 * Testuj.pl
 * Testowanie oprogramowania - PRACA, Ogłoszenia
+* Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board)
+* 
 # Articles
 * [helpful tips on how to create my portfolio in GitHub](https://www.markdownguide.org/basic-syntax/)
+  
 
 
