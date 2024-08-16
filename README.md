@@ -17,5 +17,7 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 * Creating test cases
 # Courses
 * [CodersLab](https://coderslab.pl/pl) - Podstawy testowania
+# Certyficates
+* 
 
 
