@@ -18,6 +18,8 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 # Courses
 * [CodersLab](https://coderslab.pl/pl) - Podstawy testowania
 # Certyficates
-* 
+* [ISTQB](http://scr.istqb.org)
+# Books
+* Certyfikowany tester ISTQB poziom podstawowy ( Adam roman, Lucjan Stapp, Michael Pilaeten)
 
 
