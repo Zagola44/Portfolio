@@ -30,7 +30,7 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 * 
 # Articles
 * [helpful tips on how to create my portfolio in GitHub](https://www.markdownguide.org/basic-syntax/)
-# Functional tests based on exploratory tests
+# My bug reports
 * [My completed tests for AcademyBugs](https://docs.google.com/document/d/1dSV1H1zNx_PweWRdM_LUje14eIgeCIKfVkCqe81jaXQ/edit?usp=drive_link)
 
   
