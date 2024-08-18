@@ -33,7 +33,8 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 # My bug reports
 * [My completed tests for AcademyBugs](https://docs.google.com/document/d/1dSV1H1zNx_PweWRdM_LUje14eIgeCIKfVkCqe81jaXQ/edit?usp=drive_link)
 # My projects
-* [Test cases] 
+* Individual project - 
+* [Test cases]( 
 
   
 
