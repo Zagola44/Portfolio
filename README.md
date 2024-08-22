@@ -22,12 +22,13 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 # Books
 * Certyfikowany tester ISTQB poziom podstawowy ( Adam roman, Lucjan Stapp, Michael Pilaeten)
 * TESTER SAMOUK (Chhavi Raj Dosaj)
+# Websites related to testing
+* [uTest.com](https://www.utest.com/signup/personal)
 # Groups on LinkedIn
 * Testerzy.pl
 * Testuj.pl
 * Testowanie oprogramowania - PRACA, Ogłoszenia
 * Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board)
-* 
 # Articles
 * [helpful tips on how to create my portfolio in GitHub](https://www.markdownguide.org/basic-syntax/)
 # My bug reports
