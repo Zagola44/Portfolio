@@ -33,8 +33,10 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 # My bug reports
 * [My completed tests for AcademyBugs](https://docs.google.com/document/d/1dSV1H1zNx_PweWRdM_LUje14eIgeCIKfVkCqe81jaXQ/edit?usp=drive_link)
 # My projects
-* Individual project - 
-* [Test cases]( 
+* Individual project - Helion.pl site
+* [Test case 1](https://docs.google.com/document/d/1_7E_qwaCe0Am-KQqaGSeMtWbLLU3ZnuJIdJFneCP7Jo/edit?usp=drive_link)
+* [Test case 2](https://docs.google.com/document/d/1Zg4DnJ-RtAsnl9zaaGTWLAj_M1g8uFhUjwpkp8_Alsg/edit?usp=drive_link)
+* [Test case 3](https://docs.google.com/document/d/1Kw0gSsHExcdHVD6_ZghO07lJqe8_EkL8RHnoIZ1iJAA/edit?usp=drive_link)
 
   
 
