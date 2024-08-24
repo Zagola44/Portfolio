@@ -36,6 +36,7 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 * [Test report 2](https://docs.google.com/document/d/1Zg4DnJ-RtAsnl9zaaGTWLAj_M1g8uFhUjwpkp8_Alsg/edit?usp=drive_link)
 * [Test report 3](https://docs.google.com/document/d/1Kw0gSsHExcdHVD6_ZghO07lJqe8_EkL8RHnoIZ1iJAA/edit?usp=drive_link)
 * [Bug report](https://docs.google.com/document/d/1dSV1H1zNx_PweWRdM_LUje14eIgeCIKfVkCqe81jaXQ/edit?usp=drive_link)
+* Test plan
 # My projects 
   
 
