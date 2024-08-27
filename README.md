@@ -18,7 +18,7 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 # Courses
 * [CodersLab](https://coderslab.pl/pl) - Podstawy testowania
 # Certyficates
-* [ISTQB](https://drive.google.com/file/d/18ks5Oc-x7LmFMpDvL0awPNpo09e-0cQy/view?usp=drive_link)
+* [ISTQB CTFL3-2024-22620-SJSI](https://drive.google.com/file/d/18ks5Oc-x7LmFMpDvL0awPNpo09e-0cQy/view?usp=drive_link)
 # Books
 * Certyfikowany tester ISTQB poziom podstawowy ( Adam roman, Lucjan Stapp, Michael Pilaeten)
 * TESTER SAMOUK (Chhavi Raj Dosaj)
