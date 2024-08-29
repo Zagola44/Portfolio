@@ -7,6 +7,7 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 * [Postman](https://www.postman.com) - Testing tool for REST API
 * [SoapUI](https://www.soapui.org) - Functional, regression and load testing
 * [TestLink](https://testlink.org) - Test management tool
+* [MySQL](https://www.mysql.com)
 * Github
 # Tech Skills
 * SCRUM
