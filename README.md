@@ -38,7 +38,7 @@ My name is Michał Zagoła. I decided to change the industry towards IT. Recentl
 * [Test report 3](https://docs.google.com/document/d/1Kw0gSsHExcdHVD6_ZghO07lJqe8_EkL8RHnoIZ1iJAA/edit?usp=drive_link)
 * [Bug report](https://docs.google.com/document/d/1dSV1H1zNx_PweWRdM_LUje14eIgeCIKfVkCqe81jaXQ/edit?usp=drive_link)
 # My project
-*[Postman Tests](https://documenter.postman.com/preview/34185300-c15a17e3-7ffc-417a-bbfa-03af6d26e6da?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&documentationTheme=light&logo=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&logoDark=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&right-sidebar=303030&top-bar=FFFFFF&highlight=FF6C37&right-sidebar-dark=303030&top-bar-dark=212121&highlight-dark=FF6C37)
+* [Postman Tests](https://documenter.postman.com/preview/34185300-c15a17e3-7ffc-417a-bbfa-03af6d26e6da?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&documentationTheme=light&logo=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&logoDark=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&right-sidebar=303030&top-bar=FFFFFF&highlight=FF6C37&right-sidebar-dark=303030&top-bar-dark=212121&highlight-dark=FF6C37)
 * In progress
   
 
